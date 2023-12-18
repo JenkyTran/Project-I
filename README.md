@@ -1,1 +1,1 @@
-Xin chào, đây là kho lưu trữ bài tập lớn môn công nghệ phần mềm
+Xin chào, đây là kho lưu trữ bài tập lớn của Project I 
